@@ -1,1 +1,3 @@
-# travel-and-explore-now
+# Travel and Explore Now
+
+In my third university year I had to create a final year project. In this project I decided to create an ecommerce website. I did research about similar companies and based on that I created a design, implemented with key parts as other ecommerce websites have, such as research about flights, hotels, and trips. I used Laravel 3, HTML, CSS-Bootstrap. Javascript-jQuery, JSON for server-side and client-side data parsing, AJAX, XML. DBMS MySQL, Self developed APIs and Paypal Payments. I, additionally, applied white and black box testing and deployed the website. Also wrote report with 117 pages. At the end I received a mark of 67 out of 100. 
